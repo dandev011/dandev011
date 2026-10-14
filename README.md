@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="./assets/terminal.svg" alt="Terminal de apresentação de Danilo e Real Mídia Center" width="100%" />
+  <img src="./assets/banner.svg" alt="Terminal de apresentação de Danilo e Real Mídia Center" width="100%" />
 
   <br />
   <br />
@@ -16,7 +16,7 @@
 <table>
 <tr>
 <td width="35%" valign="middle" align="center">
-<img src="./assets/dandev011-logo.png" alt="Logo DanDEV011" width="100%" />
+<img src="./assets/logo.png" alt="Logo DanDEV011" width="100%" />
 </td>
 <td width="65%" valign="middle">
 <h3>Olá, eu sou Danilo.</h3>
