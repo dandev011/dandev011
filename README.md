@@ -16,7 +16,7 @@
 <table>
   <tr>
     <td width="35%" valign="top">
-      <img src="./assets/profile.jpeg" alt="Retrato ilustrado de Danilo" width="100%" />
+      <img src="./assets/dandev011-logo.png" alt="Logo DanDEV011" width="100%" />
     </td>
     <td width="65%" valign="top">
 
