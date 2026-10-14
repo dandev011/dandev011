@@ -30,15 +30,15 @@ Construo presenças digitais e soluções de desenvolvimento pela **Real Mídia 
 > status: construindo o próximo capítulo
 ```
 
+    </td>
+  </tr>
+</table>
+
 **Onde me encontrar**
 
 - [Real Mídia Center](https://realmidiacenter.com)
 - [Ambiente de desenvolvimento](https://dev.realmidiacenter.com)
 - [contato@realmidiacenter.com](mailto:contato@realmidiacenter.com)
-
-    </td>
-  </tr>
-</table>
 
 ## `~/real-midia-center`
 
