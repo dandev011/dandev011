@@ -14,24 +14,18 @@
 <br />
 
 <table>
-  <tr>
-    <td width="35%" valign="top">
-      <img src="./assets/dandev011-logo.png" alt="Logo DanDEV011" width="100%" />
-    </td>
-    <td width="65%" valign="top">
-
-### Olá, eu sou Danilo.
-
-Construo presenças digitais e soluções de desenvolvimento pela **Real Mídia Center** — unindo tecnologia, criatividade e uma execução que respeita cada detalhe.
-
-```text
-> foco atual: soluções digitais e desenvolvimento
-> princípio: clareza no código, intenção no design
-> status: construindo o próximo capítulo
-```
-
-    </td>
-  </tr>
+<tr>
+<td width="35%" valign="middle" align="center">
+<img src="./assets/dandev011-logo.png" alt="Logo DanDEV011" width="100%" />
+</td>
+<td width="65%" valign="middle">
+<h3>Olá, eu sou Danilo.</h3>
+<p>Construo presenças digitais e soluções de desenvolvimento pela <strong>Real Mídia Center</strong> — unindo tecnologia, criatividade e uma execução que respeita cada detalhe.</p>
+<pre>&gt; foco atual: soluções digitais e desenvolvimento
+&gt; princípio: clareza no código, intenção no design
+&gt; status: construindo o próximo capítulo</pre>
+</td>
+</tr>
 </table>
 
 **Onde me encontrar**
